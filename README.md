@@ -1,2 +1,3 @@
 # Emulation_NKY
-Emulation repository
+
+Nekoy's Emulation Repository.
