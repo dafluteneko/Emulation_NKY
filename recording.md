@@ -43,7 +43,5 @@ My recording settings
 
 - [X] Automatically remux to `.mp4`
 
-## Notes
-
-- [^1]: If you choose a different format and it uses `.mp4`, [disable auto. remux](#advanced)
-- [^2]: This settings vastly vary from system to system. You may need to turn it down (or up if you got a beefy device)
+[^1]: If you choose a different format and it uses `.mp4`, [disable auto. remux](#advanced)
+[^2]: This settings vastly vary from system to system. You may need to turn it down (or up if you got a beefy device)
